@@ -1,0 +1,35 @@
+Model Params: 63.91M
+Trainable Params: 63.912M
+Generating train split: 0 examples [00:00, ? examples/s]Generating train split: 640 examples [00:00, 75891.40 examples/s]
+Epoch:[1/8](20/80), loss: 0.6802, logits_loss: 0.6802, aux_loss: 0.0000, lr: 0.00001996, epoch_time: 0.0min
+Epoch:[1/8](40/80), loss: 0.0244, logits_loss: 0.0244, aux_loss: 0.0000, lr: 0.00001983, epoch_time: 0.0min
+Epoch:[1/8](60/80), loss: 0.0108, logits_loss: 0.0108, aux_loss: 0.0000, lr: 0.00001961, epoch_time: 0.0min
+Epoch:[1/8](80/80), loss: 0.0040, logits_loss: 0.0040, aux_loss: 0.0000, lr: 0.00001931, epoch_time: 0.0min
+Epoch:[2/8](20/80), loss: 0.0046, logits_loss: 0.0046, aux_loss: 0.0000, lr: 0.00001894, epoch_time: 0.0min
+Epoch:[2/8](40/80), loss: 0.0115, logits_loss: 0.0115, aux_loss: 0.0000, lr: 0.00001848, epoch_time: 0.0min
+Epoch:[2/8](60/80), loss: 0.0048, logits_loss: 0.0048, aux_loss: 0.0000, lr: 0.00001796, epoch_time: 0.0min
+Epoch:[2/8](80/80), loss: 0.0065, logits_loss: 0.0065, aux_loss: 0.0000, lr: 0.00001736, epoch_time: 0.0min
+Epoch:[3/8](20/80), loss: 0.0054, logits_loss: 0.0054, aux_loss: 0.0000, lr: 0.00001671, epoch_time: 0.0min
+Epoch:[3/8](40/80), loss: 0.0041, logits_loss: 0.0041, aux_loss: 0.0000, lr: 0.00001600, epoch_time: 0.0min
+Epoch:[3/8](60/80), loss: 0.0043, logits_loss: 0.0043, aux_loss: 0.0000, lr: 0.00001524, epoch_time: 0.0min
+Epoch:[3/8](80/80), loss: 0.0068, logits_loss: 0.0068, aux_loss: 0.0000, lr: 0.00001444, epoch_time: 0.0min
+Epoch:[4/8](20/80), loss: 0.0065, logits_loss: 0.0065, aux_loss: 0.0000, lr: 0.00001361, epoch_time: 0.0min
+Epoch:[4/8](40/80), loss: 0.0094, logits_loss: 0.0094, aux_loss: 0.0000, lr: 0.00001276, epoch_time: 0.0min
+Epoch:[4/8](60/80), loss: 0.0052, logits_loss: 0.0052, aux_loss: 0.0000, lr: 0.00001188, epoch_time: 0.0min
+Epoch:[4/8](80/80), loss: 0.0081, logits_loss: 0.0081, aux_loss: 0.0000, lr: 0.00001100, epoch_time: 0.0min
+Epoch:[5/8](20/80), loss: 0.0048, logits_loss: 0.0048, aux_loss: 0.0000, lr: 0.00001012, epoch_time: 0.0min
+Epoch:[5/8](40/80), loss: 0.0056, logits_loss: 0.0056, aux_loss: 0.0000, lr: 0.00000924, epoch_time: 0.0min
+Epoch:[5/8](60/80), loss: 0.0037, logits_loss: 0.0037, aux_loss: 0.0000, lr: 0.00000839, epoch_time: 0.0min
+Epoch:[5/8](80/80), loss: 0.0034, logits_loss: 0.0034, aux_loss: 0.0000, lr: 0.00000756, epoch_time: 0.0min
+Epoch:[6/8](20/80), loss: 0.0032, logits_loss: 0.0032, aux_loss: 0.0000, lr: 0.00000676, epoch_time: 0.0min
+Epoch:[6/8](40/80), loss: 0.0053, logits_loss: 0.0053, aux_loss: 0.0000, lr: 0.00000600, epoch_time: 0.0min
+Epoch:[6/8](60/80), loss: 0.0069, logits_loss: 0.0069, aux_loss: 0.0000, lr: 0.00000529, epoch_time: 0.0min
+Epoch:[6/8](80/80), loss: 0.0049, logits_loss: 0.0049, aux_loss: 0.0000, lr: 0.00000464, epoch_time: 0.0min
+Epoch:[7/8](20/80), loss: 0.0055, logits_loss: 0.0055, aux_loss: 0.0000, lr: 0.00000404, epoch_time: 0.0min
+Epoch:[7/8](40/80), loss: 0.0047, logits_loss: 0.0047, aux_loss: 0.0000, lr: 0.00000352, epoch_time: 0.0min
+Epoch:[7/8](60/80), loss: 0.0018, logits_loss: 0.0018, aux_loss: 0.0000, lr: 0.00000306, epoch_time: 0.0min
+Epoch:[7/8](80/80), loss: 0.0023, logits_loss: 0.0023, aux_loss: 0.0000, lr: 0.00000269, epoch_time: 0.0min
+Epoch:[8/8](20/80), loss: 0.0047, logits_loss: 0.0047, aux_loss: 0.0000, lr: 0.00000239, epoch_time: 0.0min
+Epoch:[8/8](40/80), loss: 0.0047, logits_loss: 0.0047, aux_loss: 0.0000, lr: 0.00000217, epoch_time: 0.0min
+Epoch:[8/8](60/80), loss: 0.0045, logits_loss: 0.0045, aux_loss: 0.0000, lr: 0.00000204, epoch_time: 0.0min
+Epoch:[8/8](80/80), loss: 0.0070, logits_loss: 0.0070, aux_loss: 0.0000, lr: 0.00000200, epoch_time: 0.0min
